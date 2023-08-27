@@ -54,3 +54,5 @@ bin/
 ### Mac OS ###
 .DS_Store
 >>>>>>> b5a5fd6 (Adicionados arquivos iniciais após 4 aulas)
+/DIO-java-basico.iml
+/.idea/
