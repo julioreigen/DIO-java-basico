@@ -1,9 +1,9 @@
 package edu.julio.fourthsection;
 
 public class TV {
-    boolean state = false;
-    int channel = 1;
-    int volume = 10;
+    private boolean state = false;
+    private int channel = 1;
+    private int volume = 10;
 
     public void getAllState() {
         System.out.println();
