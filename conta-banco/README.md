@@ -1,5 +1,5 @@
 ## Sintaxe - [Desafio (PT-BR)](https://github.com/julioreigen/DIO-java-basico/blob/main/conta-banco/src/ContaTerminal.java)
-#### Desafio proposta por: [Gleyson Sampaio](https://github.com/glysns)
+#### Desafio proposto por: [Gleyson Sampaio](https://github.com/glysns)
 Vamos exercitar todo o conteúdo apresentado no módulo de Sintaxe codificando o seguinte cenário.
 
 1. Crie o projeto `ContaBanco` que receberá dados via terminal contendo as características de conta em banco conforme atributos abaixo:
