@@ -16,9 +16,8 @@ Estes são os conteúdos do curso que não contêm nenhum código, portanto não
 - Palavras reservadas
 
 ## 💻️ Desafios
-- ?
-- ?
-- ?
+- [Sintaxe](https://github.com/julioreigen/DIO-java-basico/tree/main/conta-banco)
+
 <br>
 
 ## 🔎 Referências

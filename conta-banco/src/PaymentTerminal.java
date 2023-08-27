@@ -6,7 +6,7 @@ public class PaymentTerminal {
         Scanner input = new Scanner(System.in);
 
         System.out.print("Please enter your agency number: ");
-        String agencyNumber = input.nextLine();
+        String swiftCode = input.nextLine();
 
         System.out.print("Please enter your account number: ");
         int accountNumber = Integer.parseInt(input.nextLine());
@@ -19,7 +19,7 @@ public class PaymentTerminal {
         double balance = money.nextDouble(100, 10000);
 
         System.out.printf("Hi %s, thank you for using our services!\n" +
-                        "Your agency is %s, account number %d and your balance ($%.2f) is ready to be withdrawn.",
-                clientName, agencyNumber, accountNumber, balance);
+                        "Your SWIFT code is %s, account %d and your balance ($%.2f) is ready to be withdrawn.",
+                clientName, swiftCode, accountNumber, balance);
     }
 }
