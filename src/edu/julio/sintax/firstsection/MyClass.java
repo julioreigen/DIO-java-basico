@@ -1,4 +1,4 @@
-package edu.julio.firstsection;
+package edu.julio.sintax.firstsection;
 
 public class MyClass {
     public static void main(String[] args) {

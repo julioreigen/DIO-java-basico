@@ -1,4 +1,4 @@
-package edu.julio.firstsection;
+package edu.julio.sintax.firstsection;
 
 import java.util.Scanner;
 

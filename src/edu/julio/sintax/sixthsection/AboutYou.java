@@ -1,4 +1,4 @@
-package edu.julio.sixthsection;
+package edu.julio.sintax.sixthsection;
 
 import java.util.Scanner;
 

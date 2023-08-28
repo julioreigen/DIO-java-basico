@@ -1,4 +1,4 @@
-package edu.julio.fourthsection;
+package edu.julio.sintax.fourthsection;
 
 public class TV {
     private boolean state = false;

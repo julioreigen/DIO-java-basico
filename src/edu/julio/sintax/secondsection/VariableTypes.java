@@ -1,4 +1,4 @@
-package edu.julio.secondsection;
+package edu.julio.sintax.secondsection;
 
 public class VariableTypes {
     public static void main(String[] args) {

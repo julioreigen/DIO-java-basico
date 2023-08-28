@@ -1,4 +1,4 @@
-package edu.julio.sixthsection;
+package edu.julio.sintax.sixthsection;
 
 public class AboutMe {
     public static void main(String[] args) {

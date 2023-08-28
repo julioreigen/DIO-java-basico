@@ -1,4 +1,4 @@
-package edu.julio.thirdsection;
+package edu.julio.sintax.thirdsection;
 
 public class Operators {
     public static void main(String[] args) {
