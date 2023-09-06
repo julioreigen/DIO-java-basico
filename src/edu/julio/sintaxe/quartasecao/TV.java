@@ -1,34 +1,34 @@
-package edu.julio.sintax.fourthsection;
+package edu.julio.sintaxe.quartasecao;
 
 public class TV {
-    private boolean state = false;
-    private int channel = 1;
+    private boolean estado = false;
+    private int canal = 1;
     private int volume = 10;
 
     public void getAllState() {
         System.out.println();
         System.out.println("=============================================");
-        System.out.println("TV is " + (state ? "on" : "off"));
-        if (state) {
-            System.out.println("Channel: " + channel);
+        System.out.println("TV está " + (estado ? "ligada" : "desligada"));
+        if (estado) {
+            System.out.println("Canal: " + canal);
             System.out.println("Volume: " + volume);
         }
         System.out.println("=============================================");
         System.out.println();
     }
 
-    public void setChannel(int channel) {
-        this.channel = channel;
+    public void setCanal(int canal) {
+        this.canal = canal;
     }
 
     void powerOnOff(){
-        state = !state;
+        estado = !estado;
     }
     void channelUp(){
-        channel++;
+        canal++;
     }
     void channelDown(){
-        channel--;
+        canal--;
     }
     void volumeUp(){
         volume++;

@@ -2,16 +2,16 @@ package edu.julio.loop;
 
 public class For2 {
     public static void main(String[] args) {
-        String[] students = {"Felipe", "Jonas", "Julia", "Marcos"};
+        String[] alunos = {"Felipe", "Jonas", "Julia", "Marcos"};
 
         // For
-        for (int x = 0; x < students.length; x++) {
-            System.out.println("The student in index " + x + " is " + students[x]);
+        for (int x = 0; x < alunos.length; x++) {
+            System.out.println("O estudante no índice " + x + " é " + alunos[x]);
         }
 
         // For each
-        for (String student : students) {
-            System.out.println(student);
+        for (String estudante : alunos) {
+            System.out.println(estudante);
         }
     }
 }

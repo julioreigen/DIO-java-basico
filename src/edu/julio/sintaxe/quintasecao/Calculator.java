@@ -1,4 +1,4 @@
-package edu.julio.sintax.fifthsection;
+package edu.julio.sintaxe.quintasecao;
 /**
  * <h1>Calculator</h1>
  * This class is a simple calculator
