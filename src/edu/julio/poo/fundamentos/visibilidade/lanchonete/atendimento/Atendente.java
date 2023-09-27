@@ -1,4 +1,4 @@
-package lanchonete.atendimento;
+package edu.julio.poo.fundamentos.visibilidade.lanchonete.atendimento;
 
 public class Atendente {
     public void servindoMesa() {

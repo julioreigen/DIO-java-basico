@@ -1,4 +1,4 @@
-package lanchonete.area.cliente;
+package edu.julio.poo.fundamentos.visibilidade.lanchonete.area.cliente;
 
 public class Cliente {
     public void escolherLanche() {

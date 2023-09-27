@@ -1,6 +1,4 @@
-package lanchonete.atendimento.cozinha;
-
-import lanchonete.atendimento.Atendente;
+package edu.julio.poo.fundamentos.visibilidade.lanchonete.atendimento.cozinha;
 
 public class Cozinheiro {
     public void adicionarLancheNoBalcao(){

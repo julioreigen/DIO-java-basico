@@ -1,8 +1,8 @@
-package lanchonete;
+package edu.julio.poo.fundamentos.visibilidade.lanchonete;
 
-import lanchonete.area.cliente.Cliente;
-import lanchonete.atendimento.Atendente;
-import lanchonete.atendimento.cozinha.Cozinheiro;
+import edu.julio.poo.fundamentos.visibilidade.lanchonete.area.cliente.Cliente;
+import edu.julio.poo.fundamentos.visibilidade.lanchonete.atendimento.Atendente;
+import edu.julio.poo.fundamentos.visibilidade.lanchonete.atendimento.cozinha.Cozinheiro;
 
 public class Estabelecimento {
     public static void main(String[] args) {
