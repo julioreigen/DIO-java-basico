@@ -12,6 +12,10 @@ Repositório para armazenar todo conteúdo do curso de Java Básico na [DIO](htt
 - [Estruturas Condicionais](https://github.com/julioreigen/DIO-java-basico/blob/main/src/edu/julio/estruturascondicionais/)
 - [Estruturas de Repetição](https://github.com/julioreigen/DIO-java-basico/blob/main/src/edu/julio/loop/)
 - [Exceções](https://github.com/julioreigen/DIO-java-basico/blob/main/src/edu/julio/excecoes/)
+- [Fundamentos da POO](https://github.com/julioreigen/DIO-java-basico/tree/main/src/edu/julio/poo/fundamentos)
+- [Pilares da POO](https://github.com/julioreigen/DIO-java-basico/tree/main/src/edu/julio/poo/pilares)
+- [Interfaces](https://github.com/julioreigen/DIO-java-basico/tree/main/src/edu/julio/poo/interfaces)
+- [Collections](https://github.com/julioreigen/DIO-java-basico/tree/main/src/edu/julio/collections)
 
 ## ⚠️ Conteúdos sem código
 Estes são os conteúdos do curso que não contêm nenhum código, portanto não estão no repositório:
