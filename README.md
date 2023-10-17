@@ -25,6 +25,7 @@ Estes são os conteúdos do curso que não contêm nenhum código, portanto não
 ## 💻️ Desafios
 - [Sintaxe](https://github.com/julioreigen/DIO-java-basico/tree/main/desafios/conta-banco)
 - [Controle de Fluxo](https://github.com/julioreigen/DIO-java-basico/tree/main/desafios/controle-fluxo)
+- [Diagramação de Classes do iPhone](https://github.com/julioreigen/DIO-java-basico/tree/main/desafios/poo)
 
 
 ## 🔎 Referências
