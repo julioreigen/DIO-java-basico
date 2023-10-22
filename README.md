@@ -1,6 +1,7 @@
 
-# 🇧🇷 Curso básico de Java DIO
-Repositório para armazenar todo conteúdo do curso de Java Básico na [DIO](https://dio.me)
+# 🇧🇷 Bootcamp Santander
+### Repositório para armazenar alguns conteúdos do bootcamp Santander na [DIO](https://dio.me)
+### ⚠️ Este repositório não contém todos os códigos realizados no bootcamp e o conteúdo relacionado ao Springboot não está aqui!
 
 ## 📚️ Conteúdo
 - [Anatomia das Classes](https://github.com/julioreigen/DIO-java-basico/tree/main/src/edu/julio/sintaxe/primeirasecao)
