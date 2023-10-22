@@ -1,0 +1,1 @@
+## Facade provê uma interface que reduz  a complexidade nas integrações com subsistemas.

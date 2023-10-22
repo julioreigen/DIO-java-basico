@@ -1,0 +1,1 @@
+## Singleton permite a criação de uma única instância de uma classe e fornece um modo para recuperá-la.
